@@ -1,0 +1,21 @@
+/* UserDetails.css */
+
+.user-details-container {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-details-container h2 {
+    color: #333;
+  }
+  
+  .user-details-container p {
+    margin-bottom: 10px;
+    color: #555;
+  }
+  
